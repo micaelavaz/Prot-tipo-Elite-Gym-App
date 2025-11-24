@@ -1,0 +1,2 @@
+# Prot-tipo-Elite-Gym-App
+O desafio: Criar uma experiência de entrada (onboarding) em três telas, para um aplicativo fitness que representasse visualmente a força e intensidade de um treino, garantindo que os usuários pudessem acessar e criar suas contas com motivação e principalmente, eficiência.
